@@ -14,7 +14,6 @@ const config = {
         }),
         paths: {
             base: dev ? "" : "/kevinrocco.github.io",
-			relative: false
         },
     },
 };
