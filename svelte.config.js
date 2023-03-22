@@ -12,9 +12,6 @@ const config = {
             pages: "docs",
             assets: "docs",
         }),
-        paths: {
-            base: dev ? "" : "/kevinrocco.github.io",
-        },
     },
 };
 
